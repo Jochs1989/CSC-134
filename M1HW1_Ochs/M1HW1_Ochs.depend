@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580665752 source:f:\spring_2020\csc-134\m1hw1_ochs\main.cpp
+	<iostream>
+	<iomanip>
+

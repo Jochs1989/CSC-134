@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580239180 source:e:\spring_2020\csc-134\m1lab2_ochs\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
+1580668313 source:f:\spring_2020\csc-134\m1lab2_ochs\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
